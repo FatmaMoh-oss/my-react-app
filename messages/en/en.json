@@ -1,0 +1,416 @@
+{
+  "common": {
+    "investInOman": "Invest In Oman",
+    "exploreServices": "Explore Services",
+    "exploreOpportunities": "Explore Opportunities",
+    "openData": "Open Data",
+    "comingSoon": "Coming Soon!",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "view": "View",
+    "search": "Search",
+    "exploreMore": "Explore More",
+    "exploreopendata": "Explore to Open Data",
+    "loading": "Loading files",
+    "error": "errors in loading files"
+  },
+  "notFound": {
+    "pageNotFound": "Page Not Found",
+    "couldNotFind": "We couldn't find the page you were looking for.",
+    "returnHome": "Return Home"
+  },
+  "pages": {
+    "whoWeAre": {
+      "aboutUs": "About Us",
+      "title": "Discover Our Mission, Vision & Impact",
+      "subTitle": "At the Ministry of Commerce, Industry and Investment Promotion, we drive economic growth in Oman by empowering businesses, attracting investment, and creating lasting opportunities.",
+      "title1": "A Thriving Business Destination",
+      "title2": "Minister's Welcome Message",
+      "message": "The Industrial Strategy 2040 will change the future of Oman through innovative programs to attract investments, develop industries, and enhance local innovation.",
+      "text": "Under the strong leadership of His Majesty Sultan Haitham bin Tariq, the nation's growth is guided by Oman Vision 2040, ensuring sustainable economic diversification and success. At the Ministry of Commerce, Industry & Investment Promotion, we are dedicated to helping businesses capitalize on the wealth of opportunities Oman presents. From start-ups and SMEs to multinationals, we offer an extensive portfolio of business support services and expert assistance.",
+      "whyInvest": "Why Invest in Oman?",
+      "investPoints": {
+        "item1title": "World-Class Infrastructure:",
+        "item1text": "Ranked among the best regionally",
+        "item2title": "Strategic Location:",
+        "item2text": "A gateway to regional and global markets",
+        "item3title": "Skilled Talent Pool:",
+        "item3text": "Multilingual workforce with intellectual capital",
+        "item4title": "Business & Industrial Hubs:",
+        "item4text": "First-class manufacturing & commercial spaces"
+      },
+      "ministerName": "Qais bin Mohammed Al Yousef",
+      "ministerTitle": "Minister of Commerce, Industry & Investment Promotion",
+      "ourVision": "Our Vision",
+      "ourVisionMessage": "To be globally recognized as a competitive, diversified and resilient economy, empowering a flourishing business community.",
+      "ourMission": "Our Mission",
+      "ourMissionMessage": "We provide quality e-services and a strong framework, driving investment and sustainable growth.",
+      "seniorManagementTeam": "Senior Management Team",
+      "getToKnowUs": "Get to Know Us"
+    },
+    "generalDirectorates": {
+      "ministryDirectorates": "Ministry Directorates",
+      "generalDirectorates": "General Directorates",
+      "drivingBusiness": "Driving Business & Economic Development in Oman",
+      "tab": {
+        "commerce": "Commerce",
+        "industry": "Industry",
+        "investmentPromotion": "Investment Promotion",
+        "standards": "Standards & Metrology",
+        "investmentServicesCenter": "Investment Services Center",
+        "antiMonopoly": "Competition and Anti-Monopoly Center"
+      },
+      "whatWeDo": "What We Do",
+      "commerce": {
+        "title": "General Directorate, Commerce",
+        "subtitle": "Regulating and Enhancing Trade for a Stronger Economy",
+        "services": {
+          "0": "Oman's trade balance to maintain market stability",
+          "1": "Facilitate and promote domestic trade",
+          "2": "Regulate exports and imports, ensuring smooth procedures",
+          "3": "Guarantee the availability of key products & Oman-made goods",
+          "4": "Enforce product safety & quality standards",
+          "5": "Combat money laundering and tax evasion"
+        }
+      },
+      "industry": {
+        "title": "Driving Innovation, Ensuring Sustainability",
+        "subtitle": "Empowering Oman's industrial sector through innovation, investment, and sustainability. We drive growth by enhancing standards, fostering exports, and positioning Oman as a global industrial hub",
+        "services": {
+          "0": "Support industrial development and innovation",
+          "1": "Facilitate industrial investments",
+          "2": "Promote Oman as a global industrial hub",
+          "3": "Ensure industrial standards and safety",
+          "4": "Foster sustainable industrial practices",
+          "5": "Encourage industrial exports"
+        }
+      },
+      "investmentPromotion": {
+        "title": "Unlocking Opportunities, Empowering Growth",
+        "subtitle": "Attracting and facilitating investments to strengthen Oman's economy. We create opportunities by streamlining processes, offering incentives, and fostering public-private partnerships",
+        "services": {
+          "0": "Promote Oman as an investment destination hub",
+          "1": "Facilitate foreign and domestic investments",
+          "2": "Provide investment incentives and support",
+          "3": "Streamline investment procedures",
+          "4": "Foster public-private partnerships",
+          "5": "Monitor and evaluate investment projects"
+        }
+      },
+      "standards": {
+        "title": "Ensuring Quality, Enhancing Trust",
+        "subtitle": "Ensuring quality, safety, and compliance across industries. We establish national standards, regulate imports and exports, and promote metrology services to enhance trust in the market",
+        "services": {
+          "0": "Develop and enforce national standards",
+          "1": "Ensure product quality and safety",
+          "2": "Promote metrology and calibration services",
+          "3": "Regulate imports and exports for compliance",
+          "4": "Conduct inspections and audits",
+          "5": "Support standardization initiatives"
+        }
+      },
+      "investmentServicesCenter": {
+        "title": "Seamless Investment, Maximum Impact",
+        "subtitle": "Your gateway to seamless investment in Oman. We simplify procedures, provide expert guidance, and coordinate with government entities to enhance the ease of doing business",
+        "services": {
+          "0": "Provide comprehensive investment facilitation services",
+          "1": "Streamline licensing and regulatory processes",
+          "2": "Support investors with advisory and guidance",
+          "3": "Enhance ease of doing business in Oman",
+          "4": "Coordinate with government entities for investor support",
+          "5": "Monitor and assess investment climate improvements"
+        }
+      },
+      "antiMonopoly": {
+        "title": "Fair Markets, Thriving Economy",
+        "subtitle": "Safeguarding fair competition and market integrity. We prevent monopolistic practices, promote transparency, and ensure a level playing field for businesses to thrive",
+        "services": {
+          "0": "Ensure fair competition and market transparency",
+          "1": "Prevent monopolistic practices and unfair trade",
+          "2": "Investigate and address anti-competitive behavior",
+          "3": "Develop policies to promote market efficiency",
+          "4": "Raise awareness on competition laws and regulations",
+          "5": "Collaborate with stakeholders to enforce compliance"
+        }
+      },
+      "serviceCentres": {
+        "aboutUs": "About Us",
+        "ourServiceCentres": "Our Service Centres",
+        "investOmanHall": {
+          "title": "Invest in Oman Hall",
+          "description": "A dedicated space designed to showcase investment opportunities across the Sultanate of Oman. It serves as a central hub for investors, stakeholders, and government entities to connect, explore potential partnerships, and gain insights into Oman’s economic landscape. The hall reflects Oman's commitment to facilitating business growth and attracting sustainable investments."
+        },
+        "sanadOffices": {
+          "title": "Sanad Offices",
+          "description": "Nationwide centres offering public access to services, supporting digital transformation and local entrepreneurship."
+        },
+        "omanExports": {
+          "title": "Oman Exports",
+          "description": "Promotes Omani products globally, supports exporters, and boosts economic growth through international exposure."
+        },
+        "internationalOffices": {
+          "title": "International Offices",
+          "offices": {
+            "uae": "United Arab Emirates Office",
+            "qatar": "Qatar Office",
+            "switzerland": "Switzerland Office"
+          },
+          "uae": {
+            "title": "Oman Trade Office – Dubai",
+            "description": "The Oman Trade Office in Dubai, UAE, plays a key role in advancing Oman’s external economic policy and strengthening trade and investment ties with the UAE. Positioned in a major global business hub, the office supports efforts to increase trade exchange, attract foreign investment, and promote Omani exports. It also provides facilitation services to Omani citizens residing in the UAE."
+          },
+          "qatar": {
+            "title": "Oman Trade Office – Doha",
+            "description": "Located in Qatar’s capital, Doha, this office promotes investment and economic collaboration between Oman and Qatar. It oversees economic agreements, distributes commercial and tourism-related information, and promotes Omani-made products and services. The office also organizes Oman’s participation in exhibitions and supports the Ministry with proposals and insights to strengthen bilateral trade and investment ties."
+          },
+          "switzerland": {
+            "title": "Oman Trade Office - Geneva",
+            "description": "Established in 2000, the Ministry’s Geneva Office represents Oman at the World Trade Organization and other international bodies based in Geneva. It handles negotiations, monitors Oman's trade commitments, and participates in key meetings and events. The office also acts as a liaison between the Ministry and international organizations, while promoting investment opportunities in Oman to stakeholders in Switzerland."
+          }
+        }
+      }
+    },
+    "data": {
+      "title1": "Open ",
+      "title2": "Data",
+      "description": "Open data in Oman is a national initiative aimed at enhancing transparency, encouraging innovation, and supporting evidence-based decision-making. It provides government data that is freely available for everyone to use, reuse and develop.",
+        "openData": "Open Data",
+        "nofiles": "No files found",
+        "shortdescription": "Driving Innovation and Insight"
+
+    },
+    "invest": {
+      "title": "Oman’s World of Opportunities",
+      "description": "Invest OMAN is the government`s arm for large-scale investment opportunities across promising sectors in Oman. Through their support services and expert assistance, they offer curated investment opportunities, incentives, and facilities tailored for investors.",
+      "investmentJourney": "Investment Journey",
+      "registerCompanyJourney": "Register Company Journey",
+      "registerBusiness": "Register through Oman Business Platform",
+      "investmentSectors": {
+        "title": "Investment Sectors",
+        "petrochemical": {
+          "title": "Petrochemical",
+          "description": "The petrochemical sector in Oman is a vital part of the economy, leveraging natural gas resources to produce chemicals, plastics, and fertilizers, with major hubs in Sohar and Duqm supporting exports and industrial growth."
+        },
+        "manufacturing": {
+          "title": "Manufacturing",
+          "description": "The manufacturing sector in Oman is a key driver of economic growth, focusing on industries such as petrochemicals, food processing, and industrial equipment, supported by modern infrastructure and free zones."
+        },
+        "fisheries": {
+          "title": "Fisheries",
+          "description": "Oman’s fisheries sector is one of the most promising industries, leveraging the country’s rich marine resources to support sustainable fishing, aquaculture, and seafood processing for local and global markets."
+        },
+        "renewableEnergy": {
+          "title": "Renewable Energy",
+          "description": "Oman is investing in renewable energy, particularly solar and wind power, to diversify its energy mix and support sustainable development. The country offers vast opportunities for clean energy projects."
+        },
+        "agriculture": {
+          "title": "Agriculture",
+          "description": "The agriculture sector in Oman focuses on modern farming techniques, irrigation innovations, and agribusiness investments to enhance food security and support sustainable agricultural development."
+        },
+        "circularEconomy": {
+          "title": "Circular Economy",
+          "description": "Oman is promoting a circular economy by encouraging recycling, waste management, and resource efficiency initiatives to support environmental sustainability and economic resilience."
+        },
+        "mining": {
+          "title": "Mining",
+          "description": "Oman’s mining sector is rich in minerals such as copper, gypsum, and limestone, offering vast opportunities for investment in extraction, processing, and value-added industries."
+        },
+        "healthcare": {
+          "title": "Healthcare",
+          "description": "Oman’s healthcare sector is expanding with investments in hospitals, pharmaceuticals, medical tourism, and digital health solutions to provide world-class medical services."
+        },
+        "tourism": {
+          "title": "Tourism",
+          "description": "Oman’s tourism sector is a thriving industry, attracting investments in luxury resorts, adventure tourism, cultural heritage sites, and eco-tourism experiences."
+        },
+        "itc": {
+          "title": "ICT",
+          "description": "Oman’s ICT sector is rapidly growing, with investments in digital infrastructure, cloud computing, artificial intelligence, and cybersecurity to support digital transformation."
+        },
+        "education": {
+          "title": "Education",
+          "description": "Oman is investing in education to enhance human capital, focusing on higher education institutions, vocational training, and e-learning technologies to build a knowledge-based economy."
+        },
+        "logistics": {
+          "title": "Logistics",
+          "description": "man’s strategic location makes it a regional logistics hub, with investments in ports, free zones, smart supply chains, and transport infrastructure to enhance trade and connectivity."
+        },
+        "startUps": {
+          "title": "StartUps",
+          "description": "Oman’s startup ecosystem is thriving, supported by incubators, accelerators, and funding initiatives that encourage innovation, entrepreneurship, and technology-driven business models."
+        }
+      },
+      "tabs": {
+        "0": "Register Company",
+        "1": "Logistics Sector",
+        "2": "Industrial Sector",
+        "3": "Fisheries Sector",
+        "4": "Mining Sector",
+        "5": "Agriculture Sector",
+        "6": "Education Sector (Private School)",
+        "7": "ICT Sector",
+        "8": "Healthcare Sector (Private Hospital)",
+        "9": "Health Sector (Pharmaceutical and medical supplies factory)",
+        "10": "Tourism Sector (Hotels)",
+        "11": "Tourism Sector (Integrated Tourism Complexes)",
+        "12": "Aviation Sector",
+        "13": "Telecommunication Sector"
+      },
+      "registerCompanyJourneySteps": {
+        "0": "Open Oman Business Platform (www.business.gov.om)",
+        "1": "Select the legal form of the company",
+        "2": "Fill out the Commercial Register's Data",
+        "3": "Sign the e-documents",
+        "4": "Pay the fees",
+        "5": "Obtain the certificate of membership from Chamber of Commerce"
+      },
+      "logisticsSectorJourney": {
+        "0": "Open CR through Oman Business Platform",
+        "1": "Submit the feasibility study (www.naql.om)",
+        "2": "Get preliminary approval",
+        "3": "Activate the License"
+      },
+      "industrialSectorJourney": {
+        "0": "Open CR through Oman Business Platform",
+        "1": "Submit the application",
+        "2": "Upload the documents",
+        "3": "Sign the usufruct contract",
+        "4": "Get the industrial license",
+        "5": "Issue the building permit",
+        "6": "Issue the building completion certificate",
+        "7": "Activate the License"
+      },
+      "fisheriesSectorJourney": {
+        "0": "Submit request letter to the Ministry of Agriculture, Fisheries Wealth & Water Resources",
+        "1": "Attach the feasibility study",
+        "2": "Open CR through Oman Business Platform",
+        "3": "Activate the License"
+      },
+      "miningSectorJourney": {
+        "0": "Visit the website of Ministry of Energy and Minerals (www.mem.gov.om)",
+        "1": "Choose the opportunity from the auction booklet",
+        "2": "Pay the booklet fee",
+        "3": "Attach the required documents",
+        "4": "Obtain the site according to the criteria",
+        "5": "Sign the contract",
+        "6": "Open CR through Oman Business Platform",
+        "7": "Activate the License"
+      },
+      "agricultureSectorJourney": {
+        "0": "Open CR through Oman Business Platform",
+        "1": "Submit request letter to the Ministry of Agriculture, Fisheries Wealth & Water Resources",
+        "2": "Get preliminary approval",
+        "3": "Provide the feasibility study",
+        "4": "Provide the financial solvency",
+        "5": "Get final approval",
+        "6": "Activate the License"
+      },
+      "educationSectorJourney": {
+        "0": "Open CR through Oman Business Platform",
+        "1": "Submit the application and attach the required documents",
+        "2": "Obtain the security approval",
+        "3": "Approve the school title",
+        "4": "Activate the License"
+      },
+      "ict": {
+        "0": "Open CR through Oman Business Platform",
+        "1": "Submit the feasibility study (www.naql.om)",
+        "2": "Get preliminary approval",
+        "3": "Activate the License"
+      },
+      "healthcarePrivateJourney": {
+        "0": "Submitting a study application form at the Ministry of Health",
+        "1": "Registering the institution with the Ministry of Health",
+        "2": "Provide engineering drawings (IHFG Guide line)",
+        "3": "Open the CR through Invest Easy",
+        "4": "Approval of the Ministry of Health (Ministry of Interior / Muscat Municipality, Civil Defense and Ambulance Authority, Environment Authority)",
+        "5": "Final evaluation",
+        "6": "Licensing the establishment"
+      },
+      "healthcareSupplyJourney": {
+        "0": "Submit a study application form at the Ministry of Health",
+        "1": "Open the CR through Invest Oman",
+        "2": "Issue the initial approval",
+        "3": "Select the location of the factory (Free Zones or Industrial Estates)",
+        "4": "Provide engineering drawings",
+        "5": "Start construction - factory inspection",
+        "6": "Registration of medicines and medical supplies",
+        "7": "Activate the License"
+      },
+      "tourismHotelsJourney": {
+        "0": "If the land is available; visit the website of the Ministry of Heritage and Tourism and create an account",
+        "1": "If the land is not available; the investor should request a land from the Ministry of Housing",
+        "2": "Fill in the required information and attach the documents",
+        "3": "Preliminary approval",
+        "4": "Sign the usufruct contract",
+        "5": "Open the CR through Invest Easy",
+        "6": "Activate the License"
+      },
+      "tourismComplexesJourney": {
+        "0": "Open CR through Invest Easy",
+        "1": "Submit the request to the Ministry of Heritage and Tourism",
+        "2": "Preliminary approval",
+        "3": "Upload the required documents",
+        "4": "License the project of Integrated Tourism Complexes"
+      },
+      "aviationSectorJourney": {
+        "0": "Open CR through Invest Easy",
+        "1": "Request for approval from Civil Aviation Authority",
+        "2": "Activate the License"
+      },
+      "telecommunicationSectorJourney": {
+        "0": "Open CR through Invest Easy",
+        "1": "Submit the feasibility study to Telecommunications Regulatory Authority",
+        "2": "Get preliminary approval",
+        "3": "Activate the License"
+      }
+    },
+    "ourPlatforms": {
+      "title": "Our Platforms",
+      "description": "Oman offers a unique investment landscape, characterized by its strategic location and stable economy. With a commitment to economic diversification, the Sultanate is positioning itself as a hub for both local and international investors.",
+      "_comment": "You can find the rest of platforms in /web/messages/en/pages/home/our_services.json",
+      "investorEstablishedPlatform": {
+        "title": "Investor-Established Platform",
+        "description": "A national platform for investors to start and manage businesses in Oman — from registration and licensing to compliance, all in one seamless experience."
+      },
+      "servicesGuide": {
+        "title": "Start Your Enterprise Journey",
+        "subTitle": "Explore Services:",
+        "question": "Looking for a specific service?",
+        "description": "Explore Oman’s complete catalog of government services. Whether you’re an entrepreneur, investor, artisan, or institution, discover the tools and approvals you need to operate, grow, or innovate.",
+        "downloadGuide": "Download Service Reference Guide"
+      },
+      "servicesDirectory": {
+        "title":"Services Directory",
+        "question": "Need to find a specific service?",
+        "description": "Search by name, category, or keyword to discover the service you need — from business registration to IP protection, permits, or licensing."
+      }
+    }
+  },
+  "chatbot": {
+    "title": "Help & Support",
+    "welcomeMessage": "Welcome! I'm your AI assistant, here to provide answers and information. What question would you like me to help with today?",
+    "errorMessage": "Sorry, something unexpected happened on our end. Please try again later.",
+    "inputPlaceholder": "Type your question here"
+  },
+  "accessibility": {
+    "title": "Accessibility Settings",
+    "alignment": "Alignment",
+    "justify": "Justify",
+    "left": "Left",
+    "right": "Right",
+    "center": "Center",
+    "adjustments": "Adjustments",
+    "fontSize": "Font Size",
+    "lineHeight": "Line Height",
+    "letterSpacing": "Letter Spacing",
+    "dyslexiaFriendly": "Dyslexia Friendly",
+    "highlightLinks": "Highlight Links",
+    "hideImages": "Hide Images",
+    "biggerCursor": "Bigger Cursor",
+    "reset": "Reset All Settings",
+    "moreTools": "More Tools",
+    "resetAlignments": " Reset Alignments"
+  }
+}

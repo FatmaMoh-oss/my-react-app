@@ -1,0 +1,14 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- White outline for visibility on dark backgrounds -->
+  <path d="M8 4L8 28L12.5 23.5L16 33L19 32L15.5 22.5L23 22L8 4Z" 
+        stroke="white" 
+        stroke-width="3" 
+        stroke-linejoin="round"/>
+  
+  <!-- Black fill for the cursor -->
+  <path d="M8 4L8 28L12.5 23.5L16 33L19 32L15.5 22.5L23 22L8 4Z" 
+        fill="black" 
+        stroke="black" 
+        stroke-width="1" 
+        stroke-linejoin="round"/>
+</svg>

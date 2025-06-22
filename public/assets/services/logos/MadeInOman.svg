@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="35.092712"
+   height="22.999756"
+   viewBox="0 0 35.092712 22.999756"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="MadeInOman.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.7234043"
+     inkscape:cx="81.403153"
+     inkscape:cy="51.975225"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Layer_1"
+     clip-path="url(#clip0_861_948)"
+     transform="translate(-0.799988,-2.4375e-4)">
+    <g
+       id="Group">
+      <path
+         id="Vector"
+         d="M 17.6466,23 H 7.19897 L 24.8983,5.19466 c 0.6497,-0.65359 1.7041,-0.65359 2.3538,0 L 31.12,9.08569 c 0.4339,0.4365 0.4339,1.14291 0,1.57821 L 19.7135,22.1387 C 19.1653,22.6902 18.4211,23 17.6455,23 Z"
+         fill="#ffffff" />
+      <path
+         id="Vector_2"
+         d="M 28.4209,7.51681 28.2191,2.58615 c -0.0163,-0.39544 0.133,-0.78032 0.4118,-1.06077 l 1.0252,-1.031424 c 0.6544,-0.658283 1.7147,-0.658283 2.3679,0 l 3.3779,3.398194 c 0.6544,0.65828 0.6544,1.72491 0,2.38202 L 34.3766,7.3056 c -0.2787,0.28044 -0.6601,0.43064 -1.0544,0.41421 z"
+         fill="#ffffff" />
+      <path
+         id="Vector_3"
+         d="M 0.799988,6.98999 V 17.7936 c 0,0.5925 0.233282,1.1605 0.649702,1.5782 L 4.08114,22.019 C 4.70517,22.6468 5.55199,23 6.43498,23 H 16.7147 Z"
+         fill="#ffffff" />
+    </g>
+  </g>
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0_861_948">
+      <rect
+         width="93"
+         height="23"
+         fill="#ffffff"
+         transform="translate(0.799988)"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>
