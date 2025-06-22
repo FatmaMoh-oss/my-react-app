@@ -1,8 +1,5 @@
 "use client";
-
-import Image from "next/image";
 import { useTranslations, useLocale } from "next-intl";
-import PrimaryButton from "@/components/Buttons/PrimaryButton";
 
 export default function DataSection() {
   const t = useTranslations();
